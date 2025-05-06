@@ -1,4 +1,4 @@
-# Hackathon - Credit Card Fraud Detector
+**Credit Card Fraud Detector**
 The Credit Card Fraud application analyses the transaction data over a time window and detects the fraud cards.
 
 **Technology Stack used:**
